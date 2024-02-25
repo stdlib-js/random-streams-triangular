@@ -173,16 +173,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-streams-triangular-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-streams-triangular-cli
 
-[test-image]: https://github.com/stdlib-js/random-streams-triangular/actions/workflows/test.yml/badge.svg?branch=v0.2.1
-[test-url]: https://github.com/stdlib-js/random-streams-triangular/actions/workflows/test.yml?query=branch:v0.2.1
+[test-image]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/actions/workflows/test.yml/badge.svg?branch=v0.2.1
+[test-url]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/actions/workflows/test.yml?query=branch:v0.2.1
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-streams-triangular/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/random-streams-triangular?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-streams-triangular@v0.2.1/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/random-streams-triangular@v0.2.1?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/random-streams-triangular.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/random-streams-triangular/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/random-streams-triangular@v0.2.1.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/random-streams-triangular@v0.2.1/main
 
 -->
 
@@ -193,22 +193,22 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/random-streams-triangular#cli
-[cli-url]: https://github.com/stdlib-js/random-streams-triangular/tree/cli
-[@stdlib/random-streams-triangular]: https://github.com/stdlib-js/random-streams-triangular/tree/main
+[cli-section]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1#cli
+[cli-url]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/tree/cli
+[@stdlib/random-streams-triangular]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/random-streams-triangular/tree/deno
-[deno-readme]: https://github.com/stdlib-js/random-streams-triangular/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/random-streams-triangular/tree/umd
-[umd-readme]: https://github.com/stdlib-js/random-streams-triangular/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/random-streams-triangular/tree/esm
-[esm-readme]: https://github.com/stdlib-js/random-streams-triangular/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/random-streams-triangular/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/tree/deno
+[deno-readme]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/tree/umd
+[umd-readme]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/tree/esm
+[esm-readme]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/random-streams-triangular@v0.2.1/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-streams-triangular/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-streams-triangular@v0.2.1/main/LICENSE
 
 [stream]: https://nodejs.org/api/stream.html
 
